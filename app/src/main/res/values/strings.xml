@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TableBooking</string>
+    <string name="bookingTitle">Book a table</string>
+    <string name="bookButton">Book</string>
+    <string name="layoutTitle">Change layout</string>
+    <string name="layoutButton">Layout</string>
+    <string name="chairButton">Add chair</string>
+    <string name="tableButton">Add Table</string>
+    <string name="bookingButton">Book your table!</string>
+    <string name="deleteButton">Delete</string>
+</resources>
