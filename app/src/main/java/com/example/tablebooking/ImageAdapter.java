@@ -59,25 +59,3 @@ public class ImageAdapter extends BaseAdapter {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//thank fuck for StackOverflow cause this was weird to do
