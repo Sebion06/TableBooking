@@ -12,13 +12,12 @@ import android.widget.ImageView;
 public class ImageAdapter extends BaseAdapter {
     private Context mContext;
 
-    public Integer[] mThumbIds = {
+    public static Integer[] mThumbIds = {
             R.drawable.chair_black, R.drawable.chair_black, R.drawable.empty, R.drawable.chair_black,
             R.drawable.table_black, R.drawable.table_black, R.drawable.empty, R.drawable.table_black,
             R.drawable.chair_black, R.drawable.chair_black, R.drawable.empty, R.drawable.chair_black,
             R.drawable.empty, R.drawable.empty, R.drawable.empty, R.drawable.empty,
             R.drawable.chair_black, R.drawable.table_black, R.drawable.empty, R.drawable.empty,
-
 
     };
 
