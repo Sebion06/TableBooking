@@ -21,6 +21,7 @@ public class ImageAdapter extends BaseAdapter {
 
 
     };
+
     public Integer[] getmThumbIds(){
         return mThumbIds.clone();
     }
@@ -29,8 +30,6 @@ public class ImageAdapter extends BaseAdapter {
     public ImageAdapter(Context c) {
         mContext = c;
     }
-
-
 
     @Override
     public int getCount() {
